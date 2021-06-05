@@ -6,7 +6,7 @@ import { Container } from './styles/app';
 
 export function App() {
 
-    const usernameGitHub = "filipedeschamps"
+    const usernameGitHub = "andrewjmead"
 
     return(
         <>
